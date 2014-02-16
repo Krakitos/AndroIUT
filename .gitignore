@@ -18,6 +18,7 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+<<<<<<< HEAD
 project.properties
 proguard-project.txt
 *desktop.ini
@@ -31,6 +32,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+<<<<<<< HEAD
 
 # Keystore directory
 keystore/
@@ -57,6 +59,3 @@ rapports/*.docx
 ehthumbs.db
 Thumbs.db
 desktop.ini
-
-
-
