@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ade_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ADEActivity" >
+
+    <LinearLayout xmlns:tools="http://schemas.android.com/tools"
+	    android:id="@+id/ade_navigation_header"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:layout_alignParentBottom="true"
+	    tools:context=".ADEActivity">
+        
+        <ImageButton
+            android:id="@+id/ade_previous_week"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:onClick="onNavigationButtonClick"
+            android:src="@drawable/navigation_previous_item"/>
+        
+        <ImageButton
+            android:id="@+id/ade_next_week"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:onClick="onNavigationButtonClick"
+            android:src="@drawable/navigation_next_item" />
+        
+    </LinearLayout>
+
+    <com.iutdijon.androiut2.util.view.ImageZoomView
+        android:id="@+id/planning_View"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/ade_navigation_header" />
+
+
+</RelativeLayout>

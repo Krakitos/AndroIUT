@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/grey">
+
+    <TextView
+        android:id="@+id/mail_header_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textIsSelectable="false" />
+
+    <ExpandableListView
+        android:id="@+id/mail_footer_attachment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_alignParentBottom="true" />
+	
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/mail_footer_attachment"
+        android:text="@string/attachments_label"/>
+    
+    <WebView
+        android:id="@+id/mail_content_textview"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/mail_header_textview"
+        android:layout_above="@id/mail_footer_attachment"/>
+
+</RelativeLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings related to servers URL -->
+    <string name="iut_webapi_url">http://iutdijon.u-bourgogne.fr/intra/iq/AndroIUT/webapi.php</string>
+    
+    
+    <string name="app_name">AndroIUT</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="network_acces_failure">Impossible de se connecter au réseau</string>
+    <string name="server_bad_response">Le serveur a retourné une erreur</string>
+    <string name="unknow_error">Une erreur inconnue est survenue</string>
+    <string name="must_have_network_connection">Vous devez être connecter à un réseau internet pour utiliser cette application</string>
+    <string name="processing_wait">Chargement en cours</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="try_again">Merci de ressayer dans quelques instants</string>
+    <string name="refreshing_wait">Chargement &#8230; Merci de patienter</string>
+    <string name="title_activity_login">Connexion</string>
+    <string name="update_available">Une mise à jour est disponible souhaitez vous la télécharger ?</string>
+    <string name="send_report">L\'application a rencontré un problème #8230; :(. Souhaitez vous envoyer le rapport de bug ?</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_home">Accueil</string>
+    <string name="prompt_login">Nom d\'utilisateur</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="remember_password">Se souvenir du mot de passe</string>
+    <string name="action_sign_in_short">Se connecter</string>
+    <string name="login_progress_signing_in">Connexion en cours&#8230;</string>
+    <string name="error_invalid_email">Cette adresse e-mail est incorrecte</string>
+    <string name="error_invalid_password">Ce mot de passe est trop court</string>
+    <string name="error_incorrect_password">Ce mot de passe est incorrect</string>
+    <string name="error_field_required">Ce champ est requis</string>
+    <string name="invalid_credential">Nom d\'utilisateur et/ou mot de passe incorrect </string>
+    <string name="error_connection_to_server">Impossible d\'établir une connexion</string>
+    <string name="restricted_mode_info">Mode restreint, le service scolarité n\'est pas accessible.</string>
+
+    <!-- Strings related to mails -->
+    <string name="mail_button_title">E-mails</string>
+    <string name="title_activity_mail">E-mails</string>
+    <string name="mail_sender">De</string>
+    <string name="mail_receiver">A</string>
+    <string name="mail_date">Date d\'envoi</string>
+    <string name="mail_subject">Sujet</string>
+    <string name="mail_content">Contenu</string>
+    <string name="answer_button">Répondre</string>
+    
+    
+	<string name="downloading_emails">Téléchargement des e-mails depuis le serveur&#8230;</string>
+	<string name="parsing_emails">Analyse des données depuis le serveur&#8230;</string>
+	<string name="attachments_label">Pièce(s) jointe(s) :</string>
+	<string name="downloading_email">Téléchargement du contenu de l\'email&#8230;</string>
+	<string name="download_more_email">Charger plus d\'emails&#8230;</string>
+	<string name="downloading_attachment">Téléchargement de la pièce jointe&#8230;</string>
+	<string name="no_application_found">Aucune application n\'a été trouvée</string>
+	
+    <!-- Strings related to ADE -->
+    <string name="ade_button_title">Emploi du temps</string>
+    <string name="title_activity_ade">Emploi du temps</string>
+    <string name="sending_request">Envoi de la requête au serveur&#8230;</string>
+    <string name="response_download">Récupération des données du planning</string>
+    <string name="download_ics_file">Exporter dans l\'agenda</string>
+    <string name="select_end_date">Selectionner la date limite :</string>
+    <string name="old_sdk_version">Votre version d\'Android est trop ancienne pour cette fonctionnalité</string>
+    <string name="use_last_ade_id">Voulez vous utiliser la section sauvegardée ?</string>
+    
+    <!-- Strings related to FTP -->
+   	<string name="ftp_button_title">FTP</string>
+  	<string name="title_activity_ftp">FTP</string>
+  	<string name="ftp_command_running">Chargement&#8230;</string>
+  	<string name="ftp_download_progress">Téléchargement en cours&#8230;</string> 
+  	<string name="ftp_on_university_wifi_disable">L\'accès au FTP est désactivé sur le réseau "universite"</string>
+  	<string name="ftp_on_bouy_free_operator_title">Attention</string>
+    <string name="ftp_on_bouy_free_operator">Le FTP peut rencontrer des problèmes avec votre operateur</string>
+  
+
+  	<!-- Strings related to Schooling -->
+  	<string name="schooling_button_title">Scolarité</string>
+  	<string name="title_activity_schooling">Scolarité</string>
+  	<string name="marks_tab_name">Notes</string>
+  	<string name="absences_tab_name">Absences</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blank">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#333333</color>
+    <color name="message_list_item_footer_background">#eeeeee</color>
+    <color name="message_view_header_background">#45bcbcbc</color>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iutdijon.androiut2"
+    android:versionCode="1"
+    android:versionName="1.4.6" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+    
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/launcher"
+        android:label="AndroIUT">
+        
+        <activity
+            android:name="com.iutdijon.androiut2.iut.activities.LoginActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.mail.activities.MailActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.mail.activities.MailReaderActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.iut.activities.HomeActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.ade.activities.ADEActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.ftp.activities.FTPActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.schooling.activities.SchoolingActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.schooling.activities.SchoolingTabActivity">
+        </activity>
+        <activity
+            android:name="com.iutdijon.androiut2.ade.activities.ADEListResourcesChooser">
+        </activity>
+    </application>
+
+</manifest>

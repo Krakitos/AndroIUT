@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+	<!--  ListRow Left sied Thumbnail image -->
+ 
+    <ImageView
+        android:id="@+id/list_image"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:contentDescription="folder or file"/>
+ 
+    <!-- Folder/File name-->
+    <TextView
+        android:id="@+id/ftp_list_item_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:paddingLeft="5dp"
+        android:layout_toRightOf="@+id/list_image"
+        android:typeface="sans"
+        android:textSize="18sp"
+        android:textColor="@color/blank"/>
+	
+</RelativeLayout>

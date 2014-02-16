@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings related to servers URL -->
+    <string name="iut_webapi_url">http://iutdijon.u-bourgogne.fr/intra/iq/AndroIUT/webapi.php</string>
+    
+    
+    <string name="app_name">AndroIUT</string>
+    <string name="menu_settings">Settings</string>
+    <string name="network_acces_failure">Unable to connect on the network</string>
+    <string name="must_have_network_connection">You have to have a mobile connection to use this application</string>
+    <string name="server_bad_response">Server has returned an error</string>
+    <string name="unknow_error">Unknow error occurred</string>
+    <string name="processing_wait">Loading in progress</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="try_again">Please retry in a few moment</string>
+    <string name="refreshing_wait">Loading &#8230; Please wait</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="update_available">An update is avaiable for the application do you want to download it ?</string>
+    <string name="send_report">Application has encoutered a problem and will stop :(. Do you want to send a report ?</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="prompt_login">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="remember_password">Save password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="invalid_credential">Wrong login or password</string>
+    <string name="error_connection_to_server">Unable to establish the connection</string>
+    <string name="restricted_mode_info">Limited mode, Schooling service not available.</string>
+
+    <!-- Strings related to mails -->
+    <string name="mail_button_title">Email</string>
+    <string name="title_activity_mail">MailActivity</string>
+    <string name="mail_sender">From</string>
+    <string name="mail_receiver">To</string>
+    <string name="mail_date">Sent date</string>
+    <string name="mail_subject">Subject</string>
+    <string name="mail_content">Content</string>
+    <string name="answer_button">Answer</string>
+    
+    
+	<string name="downloading_emails">Downloading emails from the server&#8230;</string>
+	<string name="parsing_emails">Parsing the data from the server&#8230;</string>
+	<string name="attachments_label">Attachment(s) : </string>
+	<string name="downloading_email">Downloading email content&#8230;</string>
+	<string name="download_more_email">Load more emails&#8230;</string>
+	<string name="downloading_attachment">Downloading attachment&#8230;</string>
+	<string name="no_application_found">No application found</string>
+	
+    <!-- Strings related to ADE -->
+    <string name="ade_button_title">Diary</string>
+    <string name="title_activity_ade">ADEActivity</string>
+    <string name="sending_request">Sending request to the server&#8230;</string>
+    <string name="response_download">Retrieve planning data</string>
+    <string name="download_ics_file">Add to your mobile calendar</string>
+    <string name="select_end_date">Select limite date to import</string>
+    <string name="old_sdk_version">Your Android version is too old for this feature</string>
+    <string name="use_last_ade_id">Do you want to use the last saved section ?</string>
+    
+    <!-- Strings related to FTP -->
+    <string name="ftp_button_title">FTP</string>
+  	<string name="title_activity_ftp">FTPActivity</string>
+  	<string name="ftp_command_running">Loading&#8230;</string>
+    <string name="ftp_download_progress">Download in progress&#8230;</string>
+    <string name="ftp_on_university_wifi_disable">FTP Acces is disable on the current network (University wifi)</string>
+    <string name="ftp_on_bouy_free_operator_title">Attention</string>
+    <string name="ftp_on_bouy_free_operator">Le FTP peut rencontrer des problèmes avec votre operateur</string>
+
+  	<!-- Strings related to Schooling -->
+  	<string name="schooling_button_title">Schooling</string>
+  	<string name="title_activity_schooling">Schooling service</string>
+  	<string name="marks_tab_name">Marks</string>
+  	<string name="absences_tab_name">Absences</string>
+
+</resources>

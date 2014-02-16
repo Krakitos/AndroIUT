@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <branch id="2" name="Auxerre">
+      <branch id="5" name="TC">
+         <branch id="2293" name="TC Initial">
+            <branch id="2308" name="TC1">
+               <branch id="2408" name="TC1PROMO">
+                  <leaf id="2441" name="TC1PRomotion" />
+               </branch>
+               <branch id="2412" name="TC1TD">
+                  <leaf id="2442" name="TC1Gr1" />
+                  <leaf id="2450" name="TC1Gr2" />
+                  <leaf id="2472" name="TC1Gr3" />
+                  <leaf id="2473" name="TC1Gr4" />
+                  <leaf id="3034" name="TC1Gr5" />
+               </branch>
+               <branch id="2440" name="TC1TP">
+                  <leaf id="2474" name="TC1Gr1A" />
+                  <leaf id="2475" name="TC1Gr1B" />
+                  <leaf id="2476" name="TC1Gr2A" />
+                  <leaf id="2477" name="TC1Gr2B" />
+                  <leaf id="2478" name="TC1Gr3A" />
+                  <leaf id="2479" name="TC1Gr3B" />
+                  <leaf id="2480" name="TC1Gr4A" />
+                  <leaf id="2481" name="TC1Gr4B" />
+                  <leaf id="3035" name="TC1Gr5A" />
+                  <leaf id="3036" name="TC1Gr5B" />
+               </branch>
+            </branch>
+            <branch id="2309" name="TC2">
+               <branch id="2482" name="TC2PROMO">
+                  <leaf id="2501" name="TC2Promotion" />
+               </branch>
+               <branch id="2490" name="TC2TD">
+                  <leaf id="2504" name="TC2Gr6" />
+                  <leaf id="2505" name="TC2Gr7" />
+                  <leaf id="2506" name="TC2Gr8" />
+               </branch>
+               <branch id="2500" name="TC2TP">
+                  <leaf id="2509" name="TC2Gr6A" />
+                  <leaf id="2510" name="TC2Gr6B" />
+                  <leaf id="2511" name="TC2Gr7A" />
+                  <leaf id="2512" name="TC2Gr7B" />
+                  <leaf id="2513" name="TC2Gr8A" />
+                  <leaf id="2514" name="TC2Gr8B" />
+               </branch>
+               <branch id="3071" name="FLE">
+                  <leaf id="3072" name="fle" />
+               </branch>
+            </branch>
+         </branch>
+         <branch id="2304" name="TC Apprentissage">
+            <branch id="2310" name="TC1App">
+               <leaf id="2399" name="TC1appPROMO" />
+            </branch>
+            <branch id="2311" name="TC2App">
+               <leaf id="2398" name="TC2appPROMO" />
+            </branch>
+         </branch>
+         <branch id="2305" name="TC LP(Licences professionnelles)">
+            <branch id="1956" name="LPMTC MACON">
+               <leaf id="1999" name="LPMTCMacon" />
+            </branch>
+            <branch id="2306" name="LPMAI">
+               <branch id="2215" name="LPMAI PROMO">
+                  <leaf id="2387" name="LPMAI PROMO" />
+               </branch>
+               <branch id="2388" name="LPMAI LANGUES">
+                  <leaf id="2389" name="LP MAI espagnol" />
+                  <leaf id="2396" name="LP MAI allemand" />
+                  <leaf id="3163" name="LP MAI FLE" />
+               </branch>
+            </branch>
+            <branch id="2307" name="LPMTC">
+               <leaf id="2518" name="LP MTC" />
+            </branch>
+            <branch id="2746" name="LPRH">
+               <leaf id="2985" name="LPRHGR1" />
+               <leaf id="3129" name="LPRH GR2" />
+            </branch>
+         </branch>
+         <branch id="2537" name="TCReservationexterieure" />
+      </branch>
+      <branch id="6" name="QLIO">
+         <branch id="2274" name="QlioS1">
+            <branch id="2271" name="Groupes TP S1">
+               <leaf id="2279" name="QLTPAS1" />
+               <leaf id="2280" name="QLTPBS1" />
+            </branch>
+            <leaf id="2278" name="QLTD1S1" />
+            <leaf id="2283" name="QLIOS1" />
+         </branch>
+         <branch id="2275" name="QlioS2">
+            <branch id="2675" name="Groupes TP S2">
+               <leaf id="2676" name="QLTPAS2" />
+               <leaf id="2677" name="QLTPBS2" />
+            </branch>
+            <leaf id="2679" name="QLTD1S2" />
+            <leaf id="2680" name="QLIOS2" />
+         </branch>
+         <branch id="2276" name="QlioS3">
+            <branch id="1056" name="Groupes TP S3">
+               <leaf id="1059" name="QLTPAS3" />
+               <leaf id="1135" name="QLTPBS3" />
+            </branch>
+            <leaf id="1881" name="QLIOS3" />
+            <leaf id="1882" name="QLTD1S3" />
+         </branch>
+         <branch id="2277" name="QlioS4">
+            <branch id="2693" name="Groupes TP S4">
+               <leaf id="2694" name="QLTPAS4" />
+               <leaf id="2695" name="QLTPBS4" />
+            </branch>
+            <leaf id="2696" name="QLIOS4" />
+            <leaf id="2708" name="QLTD1S4" />
+         </branch>
+         <branch id="2740" name="LPMPI">
+            <branch id="2678" name="groupe TD LPMPI">
+               <leaf id="2729" name="LPMPI TD1" />
+               <leaf id="2730" name="LPMPI TD2" />
+            </branch>
+            <leaf id="2741" name="LPMPI" />
+            <branch id="2742" name="Groupes TP MPI">
+               <leaf id="2743" name="CMAO" />
+               <leaf id="2744" name="TIAP" />
+               <leaf id="2745" name="RSPI" />
+            </branch>
+         </branch>
+      </branch>
+      <branch id="7" name="RT">
+         <branch id="2257" name="RT1 Semestre 1">
+            <leaf id="2259" name="RT1X" />
+            <leaf id="2262" name="RT1Y" />
+         </branch>
+         <branch id="2258" name="RT2 Semestre 3">
+            <leaf id="2263" name="RT2X" />
+            <leaf id="2264" name="RT2Y" />
+         </branch>
+         <leaf id="2265" name="RT2App" />
+         <leaf id="2471" name="RT1App" />
+         <branch id="2901" name="RT1 Semestre 2">
+            <leaf id="2902" name="RT1X" />
+            <leaf id="2905" name="RT1Y" />
+         </branch>
+         <branch id="2909" name="RT2 Semestre 4">
+            <leaf id="2910" name="RT2Y" />
+            <leaf id="2912" name="RT2X" />
+         </branch>
+      </branch>
+      <branch id="9" name="ST">
+         <branch id="2164" name="IFSI">
+            <leaf id="2715" name="IFSI" />
+         </branch>
+         <branch id="2957" name="ITII">
+            <branch id="2959" name="FI">
+               <branch id="2973" name="1ère année - P22">
+                  <branch id="3054" name="SA 1 ITII P21">
+                     <branch id="2988" name="PROMO COMPLETE">
+                        <branch id="2989" name="GROUPE /2">
+                           <branch id="2990" name="GROUPE 1/2">
+                              <leaf id="2992" name="groupe 1/2" />
+                           </branch>
+                           <branch id="2995" name="GROUPE 2/2">
+                              <leaf id="2996" name="groupe 2/2" />
+                           </branch>
+                        </branch>
+                        <branch id="2999" name="GROUPE /4">
+                           <branch id="3000" name="GROUPE 1/4">
+                              <leaf id="3001" name="groupe 1/4" />
+                           </branch>
+                           <branch id="3002" name="GROUPE 2/4">
+                              <leaf id="3003" name="groupe 2/4" />
+                           </branch>
+                           <branch id="3004" name="GROUPE 3/4">
+                              <leaf id="3007" name="groupe 3/4" />
+                           </branch>
+                           <branch id="3031" name="GROUPE 4/4">
+                              <leaf id="3056" name="groupe 4/4" />
+                           </branch>
+                        </branch>
+                     </branch>
+                     <branch id="3057" name="FAMILLE PROCESS">
+                        <branch id="3058" name="GROUPE 1/2">
+                           <leaf id="3059" name="groupe 1/2" />
+                        </branch>
+                        <branch id="3060" name="GROUPE 2/2">
+                           <leaf id="3061" name="groupe 2/2" />
+                        </branch>
+                        <branch id="3062" name="PROCESS COMPLET">
+                           <leaf id="3063" name="process complet" />
+                        </branch>
+                     </branch>
+                     <branch id="3064" name="FAMILLE FLUX">
+                        <leaf id="3065" name="famille flux" />
+                     </branch>
+                  </branch>
+               </branch>
+               <branch id="3126" name="2ème année - P21" />
+               <branch id="3131" name="3ème année - P20" />
+            </branch>
+            <branch id="2960" name="FC">
+               <branch id="2969" name="1ERE ANNEE">
+                  <leaf id="2971" name="promotion complète" />
+               </branch>
+               <branch id="2970" name="2EME ANNEE">
+                  <leaf id="2972" name="promotion complète" />
+               </branch>
+            </branch>
+         </branch>
+         <branch id="2958" name="LP">
+            <branch id="2961" name="LP MASP">
+               <branch id="2963" name="PROMO COMPLETE">
+                  <leaf id="2964" name="promotion complète" />
+               </branch>
+               <branch id="2965" name="TQ">
+                  <leaf id="3017" name="tq" />
+               </branch>
+               <branch id="2966" name="COORDO">
+                  <leaf id="3016" name="coordo" />
+               </branch>
+            </branch>
+            <branch id="2962" name="LP GSIE">
+               <branch id="2967" name="ARE">
+                  <leaf id="3013" name="Groupe 1" />
+                  <leaf id="3014" name="Groupe 2" />
+               </branch>
+               <branch id="2968" name="CPIR">
+                  <leaf id="3015" name="groupe CPIR" />
+               </branch>
+               <branch id="3011" name="PROMO COMPLETE">
+                  <leaf id="3012" name="promotion complète" />
+               </branch>
+            </branch>
+         </branch>
+      </branch>
+      <branch id="18" name="Groupes Communs Auxerre" />
+   </branch>
+   <branch id="3" name="Dijon">
+      <branch id="10" name="SRC">
+         <branch id="2088" name="LP">
+            <branch id="2841" name="IP">
+               <leaf id="2161" name="A" />
+               <leaf id="2195" name="B" />
+            </branch>
+         </branch>
+         <branch id="2406" name="SRC1">
+            <branch id="2447" name="A">
+               <leaf id="2448" name="A1" />
+               <leaf id="2449" name="A2" />
+            </branch>
+            <branch id="2458" name="B">
+               <leaf id="2459" name="B1" />
+               <leaf id="2460" name="B2" />
+            </branch>
+            <branch id="2462" name="C">
+               <leaf id="2461" name="C1" />
+               <leaf id="2463" name="C2" />
+            </branch>
+         </branch>
+         <branch id="2831" name="Groupes divers">
+            <leaf id="1160" name="X" />
+            <leaf id="2036" name="Y" />
+            <leaf id="2135" name="Al" />
+            <leaf id="2542" name="Enseignants" />
+            <leaf id="2560" name="Y inf" />
+         </branch>
+         <branch id="2848" name="SRC2">
+            <branch id="2849" name="Y">
+               <leaf id="2853" name="Y1" />
+               <leaf id="2859" name="Y2" />
+            </branch>
+            <branch id="2860" name="Z">
+               <leaf id="2468" name="Z2" />
+               <leaf id="2862" name="Z1" />
+            </branch>
+            <branch id="2864" name="X">
+               <leaf id="2865" name="X1" />
+               <leaf id="2866" name="X2" />
+            </branch>
+         </branch>
+      </branch>
+      <branch id="11" name="GACO">
+         <branch id="2120" name="DU ACBA 2009-2011">
+            <leaf id="2880" name="TD ACBA 2009-2011" />
+         </branch>
+         <branch id="2212" name="DSCG 2">
+            <leaf id="2896" name="DSCG 2" />
+         </branch>
+         <branch id="2374" name="1ère année">
+            <branch id="2375" name="Décalée">
+               <branch id="2376" name="TD">
+                  <leaf id="2769" name="TP A" />
+                  <leaf id="2770" name="TP B" />
+               </branch>
+            </branch>
+            <branch id="2451" name="CLASSIQUE">
+               <branch id="2546" name="TD1">
+                  <branch id="2549" name="TPA">
+                     <leaf id="2661" name="TPA" />
+                  </branch>
+                  <branch id="2550" name="TPB">
+                     <leaf id="2662" name="TPB" />
+                  </branch>
+                  <leaf id="2660" name="TD1" />
+               </branch>
+               <branch id="2547" name="TD2">
+                  <branch id="2551" name="TPC">
+                     <leaf id="2664" name="TPC" />
+                  </branch>
+                  <branch id="2552" name="TPD">
+                     <leaf id="2665" name="TPD" />
+                  </branch>
+                  <leaf id="2663" name="TD2" />
+               </branch>
+               <branch id="2548" name="TD3">
+                  <branch id="2553" name="TPE">
+                     <leaf id="2667" name="TPE" />
+                  </branch>
+                  <branch id="2554" name="TPF">
+                     <leaf id="2668" name="TPF" />
+                  </branch>
+                  <leaf id="2666" name="TD3" />
+               </branch>
+               <leaf id="2659" name="1ère année GACO" />
+               <leaf id="2735" name="TEST DE LANGUES" />
+            </branch>
+         </branch>
+         <branch id="2566" name="2ème année">
+            <branch id="2515" name="TP espagnol">
+               <leaf id="2545" name="TP espagnol" />
+            </branch>
+            <branch id="2517" name="TP Allemand">
+               <leaf id="2673" name="TP Allemand" />
+            </branch>
+            <branch id="2567" name="TD1">
+               <branch id="2571" name="TPA">
+                  <leaf id="2593" name="TPA" />
+               </branch>
+               <branch id="2572" name="TPB">
+                  <leaf id="2592" name="TPB" />
+               </branch>
+               <leaf id="2587" name="TD1" />
+            </branch>
+            <branch id="2568" name="TD2">
+               <branch id="2573" name="TPC">
+                  <leaf id="2594" name="TPC" />
+               </branch>
+               <branch id="2574" name="TPD">
+                  <leaf id="2595" name="TPD" />
+               </branch>
+               <leaf id="2588" name="TD2" />
+            </branch>
+            <branch id="2569" name="TD3">
+               <branch id="2575" name="TPE">
+                  <leaf id="2596" name="TPE" />
+               </branch>
+               <branch id="2576" name="TPF">
+                  <leaf id="2597" name="TPF" />
+               </branch>
+               <leaf id="2589" name="TD3" />
+            </branch>
+            <branch id="2570" name="TD4">
+               <branch id="2577" name="TPG">
+                  <leaf id="2598" name="TPG" />
+               </branch>
+               <branch id="2578" name="TPH">
+                  <leaf id="2599" name="TPH" />
+               </branch>
+               <leaf id="2590" name="TD4" />
+            </branch>
+            <leaf id="2591" name="2eme Année GACO" />
+         </branch>
+         <branch id="2727" name="DU CHINE">
+            <leaf id="2890" name="DU CHINE" />
+         </branch>
+         <branch id="2777" name="DU ACBA 2008-2010">
+            <leaf id="2779" name="TD ACBA 2008-2010" />
+         </branch>
+         <branch id="3113" name="DSCG 1">
+            <leaf id="3114" name="DSCG 1" />
+         </branch>
+      </branch>
+      <branch id="12" name="GMP">
+         <branch id="50" name="S1">
+            <branch id="55" name="S1-TP Réduit">
+               <leaf id="1936" name="S1-2" />
+               <leaf id="1937" name="S1-1" />
+               <leaf id="1938" name="S1-3" />
+               <leaf id="1939" name="S1-4" />
+               <leaf id="1940" name="S1-5" />
+               <leaf id="1941" name="S1-6" />
+               <leaf id="1942" name="S1-7" />
+               <leaf id="1944" name="S1-8" />
+               <leaf id="1964" name="S1-9" />
+            </branch>
+            <branch id="1987" name="~const_groupes">
+               <leaf id="1988" name="S1-2-1" />
+               <leaf id="1989" name="S1-2-2" />
+               <leaf id="1990" name="S1-5-1" />
+               <leaf id="1991" name="S1-5-2" />
+               <leaf id="1992" name="S1-8-1" />
+               <leaf id="1993" name="S1-8-2" />
+            </branch>
+            <branch id="2455" name="S1-TD">
+               <leaf id="2452" name="S1-A" />
+               <leaf id="2453" name="S1-B" />
+               <leaf id="2454" name="S1-C" />
+            </branch>
+            <branch id="2456" name="S1-TP">
+               <leaf id="62" name="S1-A1" />
+               <leaf id="63" name="S1-A2" />
+               <leaf id="2415" name="S1-B1" />
+               <leaf id="2416" name="S1-B2" />
+               <leaf id="2424" name="S1-C1" />
+               <leaf id="2425" name="S1-C2" />
+            </branch>
+            <leaf id="2457" name="S1-CM" />
+         </branch>
+         <branch id="2464" name="Autres Formations">
+            <leaf id="746" name="TP fac" />
+            <leaf id="2712" name="ESIREM" />
+            <leaf id="2713" name="L3MECA" />
+            <leaf id="3044" name="cours conversation anglais IUT" />
+            <leaf id="3189" name="REBOND" />
+         </branch>
+         <branch id="2606" name="S3">
+            <branch id="2607" name="S3-TP Réduit">
+               <leaf id="2226" name="S3-8" />
+               <leaf id="2608" name="S3-2" />
+               <leaf id="2609" name="S3-1" />
+               <leaf id="2610" name="S3-3" />
+               <leaf id="2611" name="S3-4" />
+               <leaf id="2612" name="S3-5" />
+               <leaf id="2613" name="S3-6" />
+               <leaf id="2614" name="S3-7" />
+            </branch>
+            <branch id="2617" name="zconst_groupes">
+               <leaf id="2618" name="S3-2-1" />
+               <leaf id="2619" name="S3-2-2" />
+               <leaf id="2620" name="S3-5-1" />
+               <leaf id="2621" name="S3-5-2" />
+               <leaf id="2622" name="S3-8-1" />
+               <leaf id="2623" name="S3-8-2" />
+            </branch>
+            <branch id="2624" name="S3-TD">
+               <leaf id="2625" name="S3-A" />
+               <leaf id="2626" name="S3-B" />
+               <leaf id="2627" name="S3-C" />
+            </branch>
+            <branch id="2628" name="S3-TP">
+               <leaf id="2629" name="S3-A1" />
+               <leaf id="2630" name="S3-A2" />
+               <leaf id="2631" name="S3-B1" />
+               <leaf id="2632" name="S3-B2" />
+               <leaf id="2633" name="S3-C1" />
+            </branch>
+            <leaf id="2635" name="S3-CM" />
+            <branch id="3111" name="zgroupes inutilisés">
+               <leaf id="2615" name="S3-8bis" />
+               <leaf id="2616" name="S3-9" />
+               <leaf id="2634" name="S3-C2" />
+            </branch>
+         </branch>
+         <branch id="2697" name="LPC3D">
+            <branch id="2698" name="~const_groupe">
+               <leaf id="2699" name="LPC3D-2-1" />
+               <leaf id="2700" name="LPC3D-2-2" />
+            </branch>
+            <leaf id="2702" name="TP A - LPC3D" />
+            <leaf id="2703" name="TP B - LPC3D" />
+            <leaf id="2704" name="TP reduit 1 - LPC3D" />
+            <leaf id="2705" name="TP reduit 2 - LPC3D" />
+            <leaf id="2706" name="TP reduit 3 - LPC3D" />
+            <leaf id="2709" name="promo - LPC3D" />
+         </branch>
+         <branch id="2783" name="S2">
+            <branch id="2784" name="S2-TP Réduit">
+               <leaf id="2785" name="S2-2" />
+               <leaf id="2786" name="S2-1" />
+               <leaf id="2787" name="S2-3" />
+               <leaf id="2788" name="S2-4" />
+               <leaf id="2789" name="S2-5" />
+               <leaf id="2790" name="S2-6" />
+               <leaf id="2791" name="S2-7" />
+               <leaf id="2792" name="S2-8" />
+               <leaf id="2917" name="S2-9" />
+               <leaf id="3180" name="S2-10" />
+            </branch>
+            <branch id="2793" name="~const_groupes">
+               <leaf id="2794" name="S2-2-1" />
+               <leaf id="2795" name="S2-2-2" />
+               <leaf id="2796" name="S2-5-1" />
+               <leaf id="2797" name="S2-5-2" />
+               <leaf id="2798" name="S2-8-1" />
+               <leaf id="2799" name="S2-8-2" />
+            </branch>
+            <branch id="2800" name="S2-TD">
+               <leaf id="2801" name="S2-A" />
+               <leaf id="2802" name="S2-B" />
+               <leaf id="3177" name="S2-C" />
+               <leaf id="3178" name="S2-D" />
+            </branch>
+            <branch id="2804" name="S2-TP">
+               <leaf id="2805" name="S2-A1" />
+               <leaf id="2806" name="S2-A2" />
+               <leaf id="2807" name="S2-B1" />
+               <leaf id="2808" name="S2-B2" />
+               <leaf id="2809" name="S2-C1" />
+               <leaf id="2810" name="S2-C2" />
+               <leaf id="3179" name="S2-D1" />
+            </branch>
+            <leaf id="2811" name="S2-CM" />
+         </branch>
+         <branch id="2832" name="S4">
+            <branch id="2833" name="S4-TP Réduit">
+               <leaf id="2834" name="S4-2" />
+               <leaf id="2835" name="S4-1" />
+               <leaf id="2836" name="S4-3" />
+               <leaf id="2837" name="S4-4" />
+               <leaf id="2838" name="S4-5" />
+               <leaf id="2839" name="S4-6" />
+               <leaf id="2981" name="S4-7" />
+               <leaf id="2986" name="S4-8" />
+            </branch>
+            <branch id="2843" name="zconst_groupes">
+               <leaf id="2844" name="S4-2-1" />
+               <leaf id="2845" name="S4-2-2" />
+               <leaf id="2846" name="S4-5-1" />
+               <leaf id="2847" name="S4-5-2" />
+            </branch>
+            <branch id="2850" name="S4-TD">
+               <leaf id="2775" name="S4-C" />
+               <leaf id="2851" name="S4-A" />
+               <leaf id="2852" name="S4-B" />
+            </branch>
+            <branch id="2854" name="S4-TP">
+               <leaf id="2855" name="S4-A1" />
+               <leaf id="2856" name="S4-A2" />
+               <leaf id="2857" name="S4-B1" />
+               <leaf id="2858" name="S4-B2" />
+               <leaf id="2987" name="S4-C1" />
+            </branch>
+            <leaf id="2861" name="S4-CM" />
+         </branch>
+      </branch>
+      <branch id="13" name="IQ">
+         <branch id="2273" name="IQS1">
+            <leaf id="2327" name="Promo S1" />
+            <branch id="2344" name="Groupes de TD">
+               <leaf id="2328" name="Groupe S1-A" />
+               <leaf id="2329" name="Groupe S1-B" />
+               <leaf id="2330" name="Groupe S1-C" />
+               <leaf id="2331" name="Groupe S1-D" />
+            </branch>
+            <branch id="2345" name="Groupes de TP">
+               <leaf id="2333" name="A1" />
+               <leaf id="2334" name="A2" />
+               <leaf id="2335" name="B1" />
+               <leaf id="2336" name="B2" />
+               <leaf id="2338" name="C1" />
+               <leaf id="2339" name="C2" />
+               <leaf id="2340" name="D1" />
+               <leaf id="2341" name="D2" />
+            </branch>
+         </branch>
+         <branch id="2414" name="IQS2">
+            <leaf id="2417" name="Promo S2" />
+            <branch id="2418" name="Groupes de TD">
+               <leaf id="2419" name="Groupe S2-A" />
+               <leaf id="2420" name="Groupe S2-B" />
+               <leaf id="2421" name="Groupe S2-C" />
+               <leaf id="2422" name="Groupe S2-D" />
+               <leaf id="2423" name="Groupe S2-E" />
+            </branch>
+            <branch id="2427" name="Groupes de TP">
+               <leaf id="2429" name="Demi-groupe S2-A1" />
+               <leaf id="2431" name="Demi-groupe S2-A2" />
+               <leaf id="2432" name="Demi-groupe S2-B1" />
+               <leaf id="2433" name="Demi-groupe S2-B2" />
+               <leaf id="2434" name="Demi-groupe S2-C1" />
+               <leaf id="2435" name="Demi-groupe S2-C2" />
+               <leaf id="2436" name="Demi-groupe S2-D1" />
+               <leaf id="2437" name="Demi-groupe S2-D2" />
+               <leaf id="2438" name="Demi-groupe S2-E1" />
+               <leaf id="2439" name="Demi-groupe S2-E2" />
+            </branch>
+         </branch>
+         <branch id="2483" name="IQS3">
+            <leaf id="2484" name="Promo S3" />
+            <branch id="2485" name="Groupes de TD">
+               <leaf id="2486" name="Groupe S3-A" />
+               <leaf id="2487" name="Groupe S3-B" />
+               <leaf id="2488" name="Groupe S3-C" />
+               <leaf id="2489" name="Groupe S3-D" />
+            </branch>
+            <branch id="2491" name="Groupes de TP">
+               <leaf id="2492" name="A1" />
+               <leaf id="2493" name="A2" />
+               <leaf id="2494" name="B1" />
+               <leaf id="2495" name="B2" />
+               <leaf id="2496" name="C1" />
+               <leaf id="2497" name="C2" />
+               <leaf id="2498" name="D1" />
+               <leaf id="2499" name="D2" />
+            </branch>
+         </branch>
+         <branch id="2502" name="IQS4">
+            <leaf id="3041" name="IQS4" />
+            <branch id="3144" name="PEC">
+               <leaf id="2522" name="IQS4-B" />
+               <leaf id="2524" name="IQS4-A" />
+               <leaf id="2993" name="IQS4-A1" />
+               <leaf id="3010" name="IQS4-A2" />
+               <leaf id="3032" name="IQS4-B1" />
+               <leaf id="3033" name="IQS4-B2" />
+               <leaf id="3037" name="IQS4-PEC" />
+            </branch>
+            <branch id="3145" name="PEL">
+               <leaf id="2521" name="IQS4-D" />
+               <leaf id="2523" name="IQS4-C" />
+               <leaf id="3042" name="IQS4-PEL" />
+               <leaf id="3070" name="IQS4-C1" />
+               <leaf id="3074" name="IQS4-C2" />
+               <leaf id="3076" name="IQS4-D1" />
+               <leaf id="3077" name="IQS4-D2" />
+            </branch>
+         </branch>
+         <branch id="3090" name="Lycéens">
+            <leaf id="3091" name="G1" />
+            <leaf id="3092" name="G2" />
+            <leaf id="3093" name="G3" />
+         </branch>
+      </branch>
+      <branch id="14" name="IC">
+         <branch id="1052" name="2A-AS">
+            <branch id="1950" name="2AGIDO">
+               <leaf id="1948" name="2AGIDO-es1" />
+               <leaf id="2118" name="2AGIDO-al1" />
+               <leaf id="2144" name="2AGIDO-TP1" />
+               <leaf id="2148" name="2AGIDO-TP2" />
+               <leaf id="2149" name="2AGIDO" />
+               <leaf id="2183" name="2A GIDO-it" />
+               <leaf id="2927" name="2A-GIDO Photo" />
+               <leaf id="2951" name="2A-GIDO Graphisme" />
+            </branch>
+            <branch id="1961" name="2AASMLP">
+               <branch id="1965" name="2AMLP">
+                  <branch id="2301" name="2AMLP1">
+                     <leaf id="60" name="2AMLP1Bibli" />
+                     <leaf id="1886" name="2AMLP1Musées" />
+                     <leaf id="2303" name="2AMLP1-es2" />
+                     <leaf id="2325" name="2AMLP1-al2" />
+                     <leaf id="2759" name="2AMLP1-Opt Lit jeu" />
+                     <leaf id="2761" name="2AMLP1-Opt His Bib" />
+                     <leaf id="2763" name="2AMLP1-Opt Arts" />
+                     <leaf id="2764" name="2AMLP1-Opt Litt etr" />
+                  </branch>
+                  <branch id="2302" name="2AMLP2">
+                     <leaf id="56" name="2AML2Bibli" />
+                     <leaf id="61" name="2AMLP2Musées" />
+                     <leaf id="2185" name="2A MLP2-it" />
+                     <leaf id="2326" name="2AMLP2-es3" />
+                     <leaf id="2760" name="2AMLP2-Opt Lit jeu" />
+                     <leaf id="2762" name="2AMLP2-Opt His Bib" />
+                     <leaf id="2765" name="2AMLP2-Opt Arts" />
+                     <leaf id="2766" name="2AMLP2-Opt Litt etr" />
+                  </branch>
+               </branch>
+               <branch id="2299" name="ASMLP">
+                  <leaf id="57" name="ASMLPBibli" />
+                  <leaf id="1958" name="ASMLPMusées" />
+               </branch>
+            </branch>
+         </branch>
+         <branch id="1957" name="1A">
+            <branch id="2750" name="1AGIDO1">
+               <leaf id="1165" name="1AGIDO1-it" />
+               <leaf id="2749" name="1AGIDO1-es1" />
+            </branch>
+            <branch id="2751" name="1AGIDO2">
+               <leaf id="2752" name="1AGIDO2-es1" />
+               <leaf id="2758" name="1AGIDO2-al1" />
+            </branch>
+            <branch id="2753" name="1AMLP2">
+               <leaf id="2525" name="1AMLP2-it" />
+               <leaf id="2754" name="1AMLP2-es2" />
+               <leaf id="2773" name="1AMLP2 Mus" />
+               <leaf id="2774" name="1AMLP2 Bib" />
+            </branch>
+            <branch id="2755" name="1AMLP1">
+               <leaf id="2756" name="1AMLP1-al2" />
+               <leaf id="2757" name="1AMLP1-es2" />
+               <leaf id="2771" name="1AMLP1 Bib" />
+               <leaf id="2772" name="1AMLP1 Mus" />
+            </branch>
+         </branch>
+         <branch id="2337" name="APICA">
+            <leaf id="2646" name="APICA" />
+         </branch>
+      </branch>
+      <branch id="15" name="GEA">
+         <branch id="1155" name="1ère année">
+            <leaf id="2355" name="Groupe11" />
+            <leaf id="2356" name="Groupe12" />
+            <leaf id="2357" name="Groupe13" />
+            <leaf id="2369" name="Groupe14" />
+            <leaf id="2370" name="Groupe15" />
+            <leaf id="2371" name="Groupe16" />
+         </branch>
+         <branch id="1966" name="2ème année">
+            <leaf id="2358" name="Groupe21" />
+            <leaf id="2359" name="Groupe23" />
+            <leaf id="2362" name="Groupe24" />
+            <leaf id="2363" name="Groupe22" />
+            <leaf id="2364" name="Groupe25" />
+         </branch>
+         <branch id="2407" name="Année Spéciale">
+            <leaf id="2410" name="GroupeAS" />
+         </branch>
+         <branch id="2655" name="Groupe DCG">
+            <leaf id="2656" name="DCG1" />
+            <leaf id="2657" name="DCG2" />
+         </branch>
+         <branch id="2687" name="LPMO">
+            <leaf id="2688" name="LPMO" />
+         </branch>
+         <branch id="2738" name="Groupe">
+            <leaf id="2739" name="Groupe" />
+         </branch>
+      </branch>
+      <branch id="17" name="Groupes Communs LP">
+         <branch id="1152" name="COMEN">
+            <leaf id="2055" name="COMEN" />
+         </branch>
+         <branch id="2130" name="CRSML">
+            <leaf id="2282" name="CRSML" />
+         </branch>
+         <branch id="2182" name="CPL">
+            <leaf id="2291" name="CPL" />
+         </branch>
+      </branch>
+      <branch id="2378" name="GB">
+         <branch id="1181" name="LPro ScVBM">
+            <leaf id="2072" name="Etudiants ScVBM" />
+         </branch>
+         <branch id="2379" name="GB première année">
+            <branch id="2380" name="TD Gr 1">
+               <leaf id="3045" name="TP Gr 1" />
+               <leaf id="3046" name="TP Gr 2" />
+            </branch>
+            <branch id="2382" name="TD Gr 2">
+               <leaf id="3047" name="TP Gr 3" />
+               <leaf id="3048" name="TP Gr 4" />
+            </branch>
+            <branch id="2383" name="TD Gr 3">
+               <leaf id="3049" name="TP Gr 5" />
+               <leaf id="3050" name="TP Gr 6" />
+            </branch>
+            <branch id="2384" name="TD Gr 4">
+               <leaf id="3051" name="TP Gr 7" />
+               <leaf id="3052" name="TP Gr 8" />
+            </branch>
+         </branch>
+         <branch id="2430" name="ABB">
+            <branch id="2840" name="Semestre 3">
+               <leaf id="2994" name="promotion ABB" />
+               <leaf id="2997" name="Groupe TP4" />
+               <leaf id="2998" name="Groupe TP3" />
+               <leaf id="3018" name="Groupe TP2" />
+               <leaf id="3019" name="Groupe TP1" />
+               <leaf id="3020" name="Groupe TD2" />
+               <leaf id="3021" name="Groupe TD1" />
+            </branch>
+            <branch id="2991" name="Semestre 4">
+               <leaf id="3022" name="promotion ABB" />
+               <leaf id="3023" name="Groupe TP4" />
+               <leaf id="3024" name="Groupe TP3" />
+               <leaf id="3025" name="Groupe TP2" />
+               <leaf id="3026" name="Groupe TP1" />
+               <leaf id="3027" name="Groupe TD2" />
+               <leaf id="3028" name="Groupe TD1" />
+            </branch>
+         </branch>
+         <branch id="2467" name="IAB">
+            <branch id="2129" name="TD2">
+               <leaf id="2723" name="TP2 B" />
+               <leaf id="2921" name="TP3 A" />
+               <leaf id="2926" name="TP3 B" />
+            </branch>
+            <branch id="2982" name="TD1">
+               <leaf id="2720" name="TP1 A" />
+               <leaf id="2721" name="TP1 B" />
+               <leaf id="2722" name="TP2 A" />
+            </branch>
+         </branch>
+         <branch id="2642" name="LPro IAA">
+            <leaf id="2644" name="LPIAA-Animale" />
+            <leaf id="2645" name="LPIAA-Végétale" />
+         </branch>
+         <branch id="2780" name="CTCBM">
+            <leaf id="2781" name="promotion CTCBM" />
+         </branch>
+         <branch id="3068" name="LPro IAA Maroc Spéc.">
+            <leaf id="2975" name="etudiants marocains" />
+         </branch>
+      </branch>
+      <branch id="2605" name="Activités Hors Enseignements">
+         <leaf id="2411" name="Jury Soutenance" />
+         <leaf id="2684" name="Evènements Scolarités" />
+         <leaf id="2690" name="Conseils Réunions" />
+         <leaf id="2710" name="Colloques" />
+         <leaf id="2716" name="Maintenance Travaux" />
+      </branch>
+      <branch id="2824" name="STIC">
+         <leaf id="2895" name="STIC" />
+      </branch>
+   </branch>
+</resources>
